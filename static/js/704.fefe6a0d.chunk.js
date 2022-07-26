@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmobile_prototype_frontend=self.webpackChunkmobile_prototype_frontend||[]).push([[704],{704:function(e,t,o){o.r(t);var n=o(2318),i=o(3216);(0,n.Bl)({actionCreator:i.i,effect:function(e){var t;null===(t=window.ReactNativeWebView)||void 0===t||t.postMessage(JSON.stringify(e))}})}}]);
+//# sourceMappingURL=704.fefe6a0d.chunk.js.map
